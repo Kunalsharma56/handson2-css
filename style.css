@@ -1,0 +1,135 @@
+body {
+    background-image: url("food_street.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 10px groove green;
+    margin: 0px;
+    z-index: -1;
+
+}
+
+.box1 {
+    height: 118px;
+    width: 346px;
+    background-color: black;
+    border: 4px solid red;
+    color: white;
+    margin-top: 24px;
+    margin-left: 37px;
+    text-align: center;
+    border-radius: 25px;
+    line-height: 35px;
+    font-style: italic;
+    display: inline-block;
+
+}
+
+.box2 {
+
+    height: 50px;
+    width: 366px;
+    background-color: black;
+    border: 4px solid red;
+    color: white;
+    margin-top: -105px;
+    margin-left: -150px;
+    text-align: center;
+    border-radius: 30px;
+    padding: 9px;
+    line-height: 50px;
+    font-style: italic;
+    display: inline-block;
+}
+
+.box3 {
+    height: 122px;
+    width: 257px;
+    background-color: black;
+    border: 4px solid red;
+    color: white;
+    margin-top: -101px;
+    margin-left: 75%;
+    text-align: center;
+    border-radius: 25px;
+    line-height: 30px;
+    font-style: italic;
+
+}
+
+.offers {
+    width: 400px;
+    border: 4px solid black;
+    border-radius: 50%;
+    margin-top: 160px;
+    margin-left: 75px;
+    background-color: lightpink;
+    text-align: center;
+    padding: 12px;
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+
+}
+
+.form {
+    width: 40%;
+    background-color: blanchedalmond;
+    border: 4px dotted red;
+    border-radius: 0px;
+    margin-top: -430px;
+    margin-left: 50%;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.menu1 {
+    width: 40%;
+    margin-left: 30%;
+    margin-top: 70px;
+    border: 8px solid red;
+    border-radius: 34px;
+    color: white;
+    background-color: black;
+    line-height: 69px;
+    text-align: center;
+    font-size: 70px;
+    font-style: italic;
+}
+
+#un {
+    margin-top: -50px;
+    padding: 1px;
+    background-color: white;
+    width: 99.2%;
+}
+
+#ab {
+    padding: 1px;
+    background-color: white;
+}
+
+#ba {
+    padding: 1px;
+    background-color: white;
+}
+
+.corse1 {
+    margin: auto;
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+    gap: 40px;
+    margin-top: 40px;
+}
+
+.corse {
+    width: 298px;
+    height: 260px;
+    border: 4px solid black;
+    background-color: rgb(211, 244, 250);
+    border-radius: 25px;
+    text-align: center;
+    font-family: 'cursive';
+}
